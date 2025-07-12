@@ -121,8 +121,8 @@ To enable real payment processing with Stripe, a minimal backend is required to 
 ## Author
 
 Vikash Kushwah
-- GitHub: [vikash-kushwah](https://github.com/Faizan7864)
-- Linkedin: [vikashkushwahaa28](https://www.linkedin.com/in/mirza-faizan-beg-44a61a250/)
+- GitHub: (https://github.com/Faizan7864)
+- Linkedin: (https://www.linkedin.com/in/mirza-faizan-beg-44a61a250/)
 
 ## Acknowledgments
 
